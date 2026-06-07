@@ -1,2 +1,2 @@
-# Agentic-AI-Project-1
-My first project about agentic AI
+# Agentic-AI-Project-Trip-Planner
+My first project about agentic AI about trip planner
